@@ -30,3 +30,6 @@ sudo chown -R 1000:1000 "/home/vagrant/.npm"
 
 cd /var/www/
 npm install
+
+cd /var/www/server
+npm install
